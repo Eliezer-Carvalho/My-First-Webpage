@@ -9,68 +9,77 @@ body {
 }
 
 .meme1 { /*gato no sofá*/
-    width: 5%;
+    width: 9.5%;
     border-radius: 10px;
     position: relative;
-    left: 9cm;
-    top: 5cm;
+    left: 8.3cm;
+    top: 4cm;
 }
 
 .meme2 { /*miudo na árvore a cair */
-    width: 5%;
+    width: 12%;
     border-radius: 10px;
     position: relative;
-    left: 6.2cm;
-    top: 15cm;
+    left: 2.5cm;
+    top: 12.5cm;
 
 }
 
 .meme3 { /*minion */
-    width: 5%;
+    width: 11%;
     border-radius: 10px;
     position: relative;
-    left: 13cm;
-    top: 5cm;
+    left: 6cm;
+    top: 3.5cm;
 }
 
 .meme4 { /*pai natal  */
-    width: 5%;
+    width: 13%;
     border-radius: 10px;
     position: relative;
-    left: 10cm;
-    top: 15cm;
+    left: -0.5cm;
+    top: 12cm;
 }
 
 .meme5 { /*cão*/
-    width: 5%;
+    width: 13%;
     border-radius: 10px;
     position: relative;
-    left: 17cm;
-    top: 5cm;
+    left: 2.2cm;
+    top: 2.5cm;
 }
 
 .meme6 { /*gato boca aberta */
-    width: 5%;
+    width: 12%;
     border-radius: 10px;
     position: relative;
-    left: 14cm;
-    top: 15cm;
+    left: -4.5cm;
+    top: 12cm;
 }
 
 .meme7 { /*gato boca aberta*/
-    width: 5%;
+    width: 11%;
     border-radius: 10px;
     position: relative;
-    left: 21cm;
-    top: 5cm;
+    left: -1.2cm;
+    top: 3.5cm;
 }
 
 
-
 .meme8 { /**/
-    width: 5%;
+    width: 9.5%;
     border-radius: 10px;
     position: relative;
-    left: 18cm;
+    left: -6.6cm;
     top: 15cm;
+}
+
+
+.tag {
+    font-size: 10px;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 32cm;
 }
