@@ -8,36 +8,69 @@ body {
     font-family: "Sixtyfour";
 }
 
-.meme1 {
+.meme1 { /*gato no sofá*/
     width: 5%;
-    
+    border-radius: 10px;
+    position: relative;
+    left: 9cm;
+    top: 5cm;
 }
 
-.meme2 {
+.meme2 { /*miudo na árvore a cair */
     width: 5%;
+    border-radius: 10px;
+    position: relative;
+    left: 6.2cm;
+    top: 15cm;
+
 }
 
-.meme3 {
+.meme3 { /*minion */
     width: 5%;
+    border-radius: 10px;
+    position: relative;
+    left: 13cm;
+    top: 5cm;
 }
 
-.meme4 {
+.meme4 { /*pai natal  */
     width: 5%;
+    border-radius: 10px;
+    position: relative;
+    left: 10cm;
+    top: 15cm;
 }
 
-.meme5 {
+.meme5 { /*cão*/
     width: 5%;
+    border-radius: 10px;
+    position: relative;
+    left: 17cm;
+    top: 5cm;
 }
 
-.meme6 {
+.meme6 { /*gato boca aberta */
     width: 5%;
+    border-radius: 10px;
+    position: relative;
+    left: 14cm;
+    top: 15cm;
 }
 
-.meme7 {
+.meme7 { /*gato boca aberta*/
     width: 5%;
+    border-radius: 10px;
+    position: relative;
+    left: 21cm;
+    top: 5cm;
 }
 
 
-.meme8 {
-    width: 5%
+
+.meme8 { /**/
+    width: 5%;
+    border-radius: 10px;
+    position: relative;
+    left: 18cm;
+    top: 15cm;
 }
