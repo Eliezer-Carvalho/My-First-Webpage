@@ -93,19 +93,24 @@ a {
 
 @media (max-width: 600px) {
     body {
-        background-size: 40%;
-        min-height: 100vh; 
-        overflow-x: hidden;
-        overflow-y: auto;
+        background-size: 30%;
     }
 
     .meme1 {
-        width: 85px;
+        max-width: 200%;
         position: relative;
         left: 65px;
         top: 60px;
     }
 
+
+    .meme2 .meme3 .meme4 .meme5 .meme6 .meme7 .meme8 {
+        visibility: hidden;
+    }
+
+
+
+/*
     .meme2 {
         width: 105px;
         position: relative;
@@ -159,7 +164,7 @@ a {
     .tag {
         font-size: 6px;
         height: 19.7cm;
-    }
+    } */
 }
 
 
