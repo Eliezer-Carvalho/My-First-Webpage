@@ -110,7 +110,47 @@ a {
         top: 35px;
     }
 
-    .meme3
+    .meme3 {
+        width: 97px;
+        position: relative;
+        left: -7px;
+        top: 22%;
+    }
+
+    .meme4 {
+        width: 110px;
+        position: relative;
+        left: 55px;
+        top: 98px;
+    }
+
+    .meme5 {
+        width: 110px;
+        position: relative;
+        left: 85px;
+        top: 420px;
+    }
+
+    .meme6 {
+        width: 105px;
+        position: relative;
+        left: -39px;
+        top: 265px;
+    }
+
+    .meme7 {
+        width: 98px;
+        position: relative;
+        left: 60px;
+        top: 135px;
+    }
+
+    .meme8 {
+        width: 80px;
+        position: relative;
+        left: -44px;
+        top: 330px;
+    }
 
 
 
@@ -118,6 +158,7 @@ a {
 
     .tag {
         font-size: 6px;
+        height: 19.7cm;
     }
 }
 
