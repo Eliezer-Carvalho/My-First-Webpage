@@ -93,17 +93,16 @@ a {
 @media (max-width: 800px) {
     body {
         background-size: 38%;
-        overflow-x: hidden;
-        overflow-y: auto;
+        overflow-x: auto;
+        overflow-y: hidden;
     }
 
     .meme1 {
         position: absolute;
         max-width: 100px;
         left: 19.5%;
-        top: 10%;
+        top: 8%;
         width: 22%;
-
     }
 
 
@@ -168,6 +167,6 @@ a {
 
     .tag {
         font-size: 6px;
-        left: 0%;
+        left: 0.5cm;
     }
 }
