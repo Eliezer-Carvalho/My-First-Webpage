@@ -8,9 +8,13 @@ body {
     font-family: "Sixtyfour";
 }
 
+
 a {
-    
+    text-decoration: none;
 }
+
+
+
 
 .meme1 { /*gato no sofá*/
     width: 9.5%;
