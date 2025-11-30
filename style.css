@@ -93,78 +93,73 @@ a {
 
 @media (max-width: 600px) {
     body {
-        background-size: 30%;
+        background-size: 38%;
+        overflow-x: hidden;
+        overflow-y: hidden;
     }
 
     .meme1 {
-        max-width: 200%;
-        position: relative;
-        left: 65px;
-        top: 60px;
+        position: absolute;
+        left: 26.5%;
+        top: 13%;
+        scale: 235%;
+
     }
 
 
-    .meme2 .meme3 .meme4 .meme5 .meme6 .meme7 .meme8 {
-        visibility: hidden;
-    }
-
-
-
-/*
     .meme2 {
-        width: 105px;
-        position: relative;
-        left: 110px;
-        top: 35px;
+        position: absolute;
+        left: 25%;
+        top: 31%;
+        scale: 225%;
     }
 
     .meme3 {
-        width: 97px;
-        position: relative;
-        left: -7px;
-        top: 22%;
+        position: absolute;
+        left: 63.5%;
+        top: 13%;
+        scale: 225%;
     }
 
     .meme4 {
-        width: 110px;
-        position: relative;
-        left: 55px;
-        top: 98px;
+        position: absolute;
+        left: 24.5%;
+        top: 48%;
+        scale: 235%;
     }
 
     .meme5 {
-        width: 110px;
-        position: relative;
-        left: 85px;
-        top: 420px;
+        position: absolute;
+        left: 62.5%;
+        top: 30.5%;
+        scale: 225%;
     }
 
     .meme6 {
-        width: 105px;
-        position: relative;
-        left: -39px;
-        top: 265px;
+        position: absolute;
+        left: 25%;
+        top: 66%;
+        scale: 225%;
     }
 
     .meme7 {
-        width: 98px;
-        position: relative;
-        left: 60px;
-        top: 135px;
+        position: absolute;
+        left: 63.5%;
+        top: 48%;
+        scale: 225%;
     }
 
     .meme8 {
-        width: 80px;
-        position: relative;
-        left: -44px;
-        top: 330px;
+        position: absolute;
+        left: 64.5%;
+        top: 65%;
+        scale: 220%;
     }
 
-
     .tag {
-        font-size: 6px;
-        height: 19.7cm;
-    } */
+        position: absolute;
+        justify-content: center;
+        font-size: 40%;
+        top: 11.8%;
+    }
 }
-
-
