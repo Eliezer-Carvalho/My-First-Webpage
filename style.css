@@ -89,3 +89,36 @@ a {
     align-items: center;
     height: 32cm;
 }
+
+
+@media (max-width: 600px) {
+    body {
+        background-size: 40%;
+    }
+
+    .meme1 {
+        width: 85px;
+        position: relative;
+        left: 65px;
+        top: 60px;
+    }
+
+    .meme2 {
+        width: 105px;
+        position: relative;
+        left: 110px;
+        top: 35px;
+    }
+
+    .meme3
+
+
+
+
+
+    .tag {
+        font-size: 6px;
+    }
+}
+
+
