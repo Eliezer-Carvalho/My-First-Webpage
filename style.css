@@ -93,8 +93,6 @@ a {
 @media (max-width: 800px) {
     body {
         background-size: 38%;
-        overflow-x: auto;
-        overflow-y: hidden;
     }
 
     .meme1 {
