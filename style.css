@@ -84,10 +84,9 @@ a {
 .tag {
     font-size: 10px;
     color:white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 32cm;
+    position: absolute;
+    left: 35%;
+    top: 96%;
 }
 
 
@@ -101,9 +100,9 @@ a {
     .meme1 {
         max-width: 100px;
         position: absolute;
-        left: 26.5%;
-        top: 13%;
-        scale: 200%;
+        left: 20%;
+        top: 9%;
+        width: 22%;
 
     }
 
@@ -111,64 +110,64 @@ a {
     .meme2 {
         max-width: 100px;
         position: absolute;
-        left: 25%;
-        top: 31%;
-        scale: 225%;
+        left: 18%;
+        top: 29%;
+        width: 30%;
     }
 
     .meme3 {
         max-width: 100px;
         position: absolute;
-        left: 63.5%;
-        top: 13%;
-        scale: 225%;
+        left: 57%;
+        top: 9%;
+        width: 25%;
     }
 
     .meme4 {
         max-width: 100px;
         position: absolute;
-        left: 24.5%;
-        top: 50%;
-        scale: 235%;
+        left: 19%;
+        top: 48%;
+        width: 50%;
+        scale: 125%;
     }
 
     .meme5 {
         max-width: 100px;
         position: absolute;
-        left: 62.5%;
-        top: 31%;
-        scale: 225%;
+        left: 57%;
+        top: 29.5%;
+        width: 40%;
+        scale: 110%;
     }
 
     .meme6 {
         max-width: 100px;
         position: absolute;
-        left: 25%;
-        top: 70%;
-        scale: 225%;
+        left: 18.5%;
+        top: 67%;
+        width: 50%;
+        scale: 105%;
     }
 
     .meme7 {
         max-width: 100px;
         position: absolute;
-        left: 63.5%;
-        top: 50%;
-        scale: 225%;
+        left: 56.5%;
+        top: 46.5%;
+        width: 40%;
     }
 
     .meme8 {
         max-width: 100px;
         position: absolute;
-        left: 64.5%;
-        top: 70%;
-        scale: 220%;
+        left: 59%;
+        top: 65%;
+        width: 20%;
     }
 
     .tag {
-        position: absolute;
-        left: 6%;
         font-size: 6px;
-        color:white;
-        height: 175%;
+        left: 5%;
     }
 }
