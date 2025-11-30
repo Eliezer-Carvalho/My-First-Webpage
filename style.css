@@ -98,9 +98,10 @@ a {
     }
 
     .meme1 {
+        position: absolute;
         max-width: 100px;
-        left: 19%;
-        top: 5%;
+        left: 19.5%;
+        top: 10%;
         width: 22%;
 
     }
