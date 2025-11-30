@@ -94,6 +94,9 @@ a {
 @media (max-width: 600px) {
     body {
         background-size: 40%;
+        min-height: 100vh; 
+        overflow-x: hidden;
+        overflow-y: auto;
     }
 
     .meme1 {
@@ -151,9 +154,6 @@ a {
         left: -44px;
         top: 330px;
     }
-
-
-
 
 
     .tag {
